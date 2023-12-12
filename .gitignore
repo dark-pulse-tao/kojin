@@ -1,0 +1,37 @@
+# Compiled files
+*.class
+*.o
+*.pyc
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+/.gradle/
+/.idea/
+/.mvn/
+/.vscode/
+/node_modules/
+
+# Build output
+/build/
+/dist/
+/out/
+/target/
+
+# IDE specific files
+*.iml
+*.ipr
+*.iws
+/.idea/
+/.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+/log/
+/temp/
