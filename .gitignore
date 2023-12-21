@@ -35,3 +35,7 @@ Thumbs.db
 # Logs and temp files
 /log/
 /temp/
+
+# custom 
+
+**export.zip
